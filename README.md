@@ -1,4 +1,4 @@
-# Project Name
+#Julio A&ntilde;overos | Fullstack Web Developer - Personal Portafolio
 
 > One paragraph statement about the project.
 
@@ -8,7 +8,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
+- HTML5, CSS3 & Javascript
 - frameworks,
 - technologies used
 
@@ -41,17 +41,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Julio Añoveros**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@jubaan](https://github.com/jubaan)
+- Twitter: [@AnoverosJulio](https://twitter.com/AnoverosJulio)
+- Linkedin: [linkedin](https://www.linkedin.com/in/julio-a%C3%B1overos-b987a8a/)
 
 ## 🤝 Contributing
 
